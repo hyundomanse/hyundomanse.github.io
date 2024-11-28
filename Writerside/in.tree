@@ -8,4 +8,7 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="Posting-Test.md"/>
+    <toc-element topic="개발팁.md">
+        <toc-element topic="마크업.md"/>
+    </toc-element>
 </instance-profile>
