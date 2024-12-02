@@ -1,13 +1,13 @@
 # LombokVO생성
 
-IntelliJ IDEA 설치
-IntelliJ IDEA 의 Database plugin 설치
-Database 연동
-테이블 우클릭
-Tools > Scripted Extenstions > Go to Scriptes Directory
-Generate POJOs.groovy 선택
->>
----
+1. IntelliJ IDEA 설치
+2. IntelliJ IDEA 의 Database plugin 설치
+3. Database 연동
+4. 테이블 우클릭
+5. Tools > Scripted Extenstions > Go to Scriptes Directory
+6. Generate POJOs.groovy 선택
+
+```
 import com.intellij.database.model.DasTable
 import com.intellij.database.util.Case
 import com.intellij.database.util.DasUtil
@@ -172,14 +172,12 @@ def s = com.intellij.psi.codeStyle.NameUtil.splitNameIntoWords(str)
 .replaceAll(/[^\p{javaJavaIdentifierPart}[_]]/, "_")
 capitalize || s.length() == 1 ? s : Case.LOWER.apply(s[0]) + s[1..-1]
 }
+```
 
----
+[made by yt.seo](https://rundevelrun.github.io)
 
-작성 
-made by yt.seo https://rundevelrun.github.io
-
-groovy 실행
-생성 디렉토리 확정
+7. groovy 실행
+8. 생성 디렉토리 확정
 
 
 
