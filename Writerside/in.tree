@@ -11,4 +11,5 @@
     <toc-element topic="개발팁.md">
         <toc-element topic="마크업.md"/>
     </toc-element>
+    <toc-element topic="LombokVO생성.md"/>
 </instance-profile>
