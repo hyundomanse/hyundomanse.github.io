@@ -3,11 +3,27 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
+<!--    <variables>-->
+<!--        <custom-css>custom.css</custom-css>-->
+<!--        <ignore-problems>MRK003,MRK013,MRK014,MRK015,MRK017,MRK032</ignore-problems>-->
+<!--        <include-after-body>static/script.html</include-after-body>-->
+<!--        <include-in-head>static/head.html</include-in-head>-->
+<!--        <web-root>https://rundevelrun.6developer.com/</web-root>-->
+<!--        <custom-favicons>favicon.ico</custom-favicons>-->
+<!--        <analytics-head-script-file>static/analytics-head.html</analytics-head-script-file>-->
+<!--        <analytics-body-html-file>static/analytics-body.html</analytics-body-html-file>-->
+<!--        <primary-color>metallic</primary-color>-->
+<!--    </variables>-->
     <build-profile instance="in">
         <variables>
-            <noindex-content>true</noindex-content>
+            <noindex-content>false</noindex-content>
         </variables>
     </build-profile>
 
+    <footer>
+        <link href="https://github.com/hyundomanse">GitHub</link>
+        <copyright>2024. hyundomanse All Rights Reserved.</copyright>
+        <social type="youtube" href="https://www.utube.com"></social>
+    </footer>
+    <sitemap priority="0.35" change-frequency="daily"/>
 </buildprofiles>
