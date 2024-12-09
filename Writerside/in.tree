@@ -8,9 +8,9 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="Posting-Test.md"/>
-    <toc-element topic="개발카테고리.md" target-for-accept-web-file-names="">
-        <toc-element topic="마크업.md"/>
+    <toc-element topic="dev-category.md" target-for-accept-web-file-names="">
+        <toc-element topic="markup.md"/>
     </toc-element>
     <toc-element topic="private.md" hidden="true"/>
-    <toc-element topic="LombokVO생성.md"/>
+    <toc-element topic="LombokVO-create.md"/>
 </instance-profile>
