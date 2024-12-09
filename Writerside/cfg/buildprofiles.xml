@@ -23,7 +23,7 @@
     <footer>
         <link href="https://github.com/hyundomanse">GitHub</link>
         <copyright>2024. hyundomanse All Rights Reserved.</copyright>
-        <social type="youtube" href="https://www.utube.com"></social>
+<!--        <social type="youtube" href="https://www.utube.com"></social>-->
     </footer>
     <sitemap priority="0.35" change-frequency="daily"/>
 </buildprofiles>
