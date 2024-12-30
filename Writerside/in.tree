@@ -6,6 +6,9 @@
                  name="Instance Name"
                  start-page="starter.md">
 
+    <toc-element topic="dev-cf1.md" hidden="true"/>
+    <toc-element topic="dev-cf2.md" hidden="true"/>
+    <toc-element topic="dev-cf3.md" hidden="true"/>
     <toc-element topic="starter.md"/>
     <toc-element topic="Posting-Test.md"/>
     <toc-element topic="dev-category.md" target-for-accept-web-file-names="">
