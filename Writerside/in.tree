@@ -6,6 +6,7 @@
                  name="Instance Name"
                  start-page="starter.md">
 
+    <toc-element topic="dev-cf7.md" hidden="true"/>
     <toc-element topic="dev-cf4.md" hidden="true"/>
     <toc-element topic="dev-cf5.md" hidden="true"/>
     <toc-element topic="dev-cf6.md" hidden="true"/>
