@@ -11,6 +11,10 @@
 커서 히스토리 : Ctrl + Alt + ←, →
 코드정렬 : 선택 후 Ctrl + Alt + L
 코드블록(전체) 접기 펼치기 : Ctrl + (Shift) + +,-
+Ctrl+Alt+Shift+J : Select All Occurrences
+: 한 번에 모든 같은 단어 선택
+Alt+J : Add Selectin for Next Occurrence
+: 한 번 누를 때마다 다음 같은 단어가 하나씩 선택
 
 ### VSCODE 단축키 ###
 키보드숏컷 : Ctrl+K+S
